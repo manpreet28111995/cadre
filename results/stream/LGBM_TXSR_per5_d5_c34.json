@@ -1,0 +1,1 @@
+{"model": "LGBM", "fs": "TXSR", "policy": "per5", "d": 5, "cut": 34, "win": null, "seeds": [0, 1, 2, 3, 4], "wall_s": 99.26093649864197}

@@ -1,0 +1,9 @@
+,value
+rows,1268260.0
+n_features,55.0
+n_features_constant_ge_99pct,55.0
+share_rows_future_block,0.12666330247741
+share_rows_future_count,0.12666409095926703
+share_rows_future_block_steps_1_to_34,0.15590208900826683
+max_last_block_at_step1,487975.0
+end_block_step1,391212.0

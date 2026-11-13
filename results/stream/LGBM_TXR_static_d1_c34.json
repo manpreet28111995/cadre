@@ -1,0 +1,1 @@
+{"model": "LGBM", "fs": "TXR", "policy": "static", "d": 1, "cut": 34, "win": null, "seeds": [0, 1, 2, 3, 4], "wall_s": 28.346059799194336}

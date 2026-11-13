@@ -1,0 +1,1 @@
+{"model": "LGBM", "fs": "TXSR", "policy": "slide", "d": 5, "cut": 34, "win": 10, "seeds": [0, 1, 2, 3, 4], "wall_s": 127.89128017425537}
